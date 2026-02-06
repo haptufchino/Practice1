@@ -1,2 +1,2 @@
-# Practice1
+# Practices
 PP2
