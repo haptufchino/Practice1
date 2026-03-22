@@ -1,0 +1,7 @@
+a = open("/storage/emulated/0/Download/pipis.txt", "a")
+a.write("\tspam")
+a.close()
+b = open("/storage/emulated/0/Download/pipis.txt", "r")
+b = b.read()
+print(b)
+b.close()
